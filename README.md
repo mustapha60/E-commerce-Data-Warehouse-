@@ -1,4 +1,5 @@
 # E\-Commerce Data Warehouse
+![image alt](https://github.com/mustapha60/E-commerce-Data-Warehouse-/blob/c034da0e9ae3cd3e04aa37704c5430b92f229d9a/WhatsApp%20Image%202026-11-18%20at%2020.11.11.jpeg)
 
 ## Overview
 
